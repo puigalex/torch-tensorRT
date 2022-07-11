@@ -1,5 +1,5 @@
 # Optimizar modelos de PyTorch con TensorRT y torch
-## Estas son las ligas mencionadas en el video de [AMP tech en YouTube]():
+## Estas son las ligas mencionadas en el video de [AMP tech en YouTube](https://youtu.be/3Kae4FF0x0k):
 
 1) [Docker](https://www.docker.com/)
 2) [Nvidia Container Toolkit](https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/install-guide.html#installation-guide)
@@ -13,7 +13,7 @@
 ```
 git clone https://github.com/pytorch/TensorRT.git
 ```
-Si quieres seguir el notebook que se muestra en el video de Youtube, descarga [este cuaderno]() o el **[repositorio]()** y colocalo en el directorio raiz del reporsitorio de TensorRT 
+Si quieres seguir el notebook que se muestra en el video de Youtube, descarga [este cuaderno](https://github.com/puigalex/torch-tensorRT/blob/main/Resnet50-example.ipynb) o el **[repositorio](https://github.com/puigalex/torch-tensorRT)** y colocalo en el directorio raiz del reporsitorio de TensorRT 
 
 ### Descargar la imagen de pytorch con tensor-rt
 ```
